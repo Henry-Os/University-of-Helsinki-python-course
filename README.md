@@ -33,3 +33,6 @@ Remember also to answer all written questions in the exercise, in addition to th
 
 ## Practicing my git and github skills
 I keep on practicing no matter the obstacles.
+
+## Keep on keeping on 
+This is a review of my introductory skills in git and github
