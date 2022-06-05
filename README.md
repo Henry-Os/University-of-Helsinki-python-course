@@ -36,3 +36,6 @@ I keep on practicing no matter the obstacles.
 
 ## Keep on keeping on 
 This is a review of my introductory skills in git and github
+
+## A quick review
+Refreshing my memory on the workflow for cloning a remote repository into a local one and pushing it back to it its source.
